@@ -4,7 +4,7 @@ A small utility for quickly accessing predefined project folders. Uses [`rofi`](
 to perform the fuzzy selection.
 
 ## Requirements
-Make sure you have [`rofi`](https://github.com/davatorium/rofi) installed. 
+Make sure you have [`rofi`](https://github.com/davatorium/rofi) and [`pyyaml`](https://pypi.org/project/PyYAML/) installed.
 The project has been tested using `rofi` version `1.7.5` and `python 3.10`.
 
 ## Configuration
